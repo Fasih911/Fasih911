@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fasih911
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning PHP, Laravel, WordPress, Laravel JWT, Restful API's in Laravel.
 - 💞️ I’m looking to collaborate on PHP, Laravel, WordPress, Laravel JWT, Restful API's in Laravel.
 - 📫 How to reach me fasihurrehmanarid@gmail.com
